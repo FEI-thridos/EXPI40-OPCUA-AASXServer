@@ -1,0 +1,40 @@
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.deps.json
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\OneDrive\dizp\AAS\aas_server\AASX_Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.deps.json
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfo.cs
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.deps.json
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\bin\Release\netstandard2.0\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\es6numberserializer\obj\Release\netstandard2.0\es6numberserializer.pdb

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0704A8-85C7-4FC9-B12D-C7B9E63EF7B6}|AasxServerCore\\AasxServerCore.csproj|C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\aasxservercore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C0704A8-85C7-4FC9-B12D-C7B9E63EF7B6}|AasxServerCore\\AasxServerCore.csproj|solutionrelative:aasxservercore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0704A8-85C7-4FC9-B12D-C7B9E63EF7B6}|AasxServerCore\\AasxServerCore.csproj|C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\aasxservercore\\startfordemo.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7C0704A8-85C7-4FC9-B12D-C7B9E63EF7B6}|AasxServerCore\\AasxServerCore.csproj|solutionrelative:aasxservercore\\startfordemo.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\AasxServerCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AasxServerCore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\AasxServerCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AasxServerCore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T12:48:20.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "startForDemo.bat",
+              "DocumentMoniker": "C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\AasxServerCore\\startForDemo.bat",
+              "RelativeDocumentMoniker": "AasxServerCore\\startForDemo.bat",
+              "ToolTip": "C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\AasxServerCore\\startForDemo.bat",
+              "RelativeToolTip": "AasxServerCore\\startForDemo.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-02-22T12:48:20.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZLFSk9vBiH8WhKxI9z8kF9DA95JmslsXwbu0cpBYxd1xH+mC7/wLccIVAJex0XZ6+WBsuvZ7Hlo+DPJJcEeNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martin.pajpach\\Documents\\Sukromne\\Skola\\scirep\\AASX OpcUa Server\\src\\es6numberserializer\\es6numberserializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martin.pajpach\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\martin.pajpach\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

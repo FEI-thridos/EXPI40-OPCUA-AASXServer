@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AasxServerCore": {
+      "commandName": "Project",
+      "commandLineArgs": "--opc --port 51710 --data-path path\\to\\aas\\directory"
+    }
+  }
+}

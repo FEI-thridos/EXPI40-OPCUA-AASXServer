@@ -1,0 +1,630 @@
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aasx-server-master\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\AASX_Server\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.genruntimeconfig.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.exe
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.deps.json
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.json
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.dev.json
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfo.cs
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CopyComplete
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\source\repos\AASXOpcUaServer\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.exe
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.deps.json
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\bin\Debug\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServ.D1563DA3.Up2Date
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\AASX OpcUa Server\src\AasxServerCore\obj\Debug\netcoreapp3.1\AasxServerCore.genruntimeconfig.cache
